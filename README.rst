@@ -78,7 +78,7 @@ Note:
 Bugs/Errors
 +++++
 
-If you find any bugs/errors in the usage of above code, please raise an issue through `Github <https://github.com/HimanshuIITMUE4>`_.
+If you find any bugs/errors in the usage of above code, please raise an issue through `Github <https://github.com/HimanshuIITMUE4/AganithaSpokenToWritten>`_.
 
 +++++++
 License
